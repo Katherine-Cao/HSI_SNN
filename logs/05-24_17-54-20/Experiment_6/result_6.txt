@@ -1,0 +1,132 @@
+[2022-05-24 20:57:05,509] Epoch: 000   Train Loss: 1.586017 Train Accuracy: 42.637311   Valid Loss: 0.765208 Valid Accuracy: 68.750000
+[2022-05-24 20:57:21,545] Epoch: 001   Train Loss: 0.486553 Train Accuracy: 79.071969   Valid Loss: 0.421991 Valid Accuracy: 78.320312
+[2022-05-24 20:57:37,553] Epoch: 002   Train Loss: 0.292603 Train Accuracy: 88.091856   Valid Loss: 0.286144 Valid Accuracy: 87.695312
+[2022-05-24 20:57:53,557] Epoch: 003   Train Loss: 0.197754 Train Accuracy: 92.613636   Valid Loss: 0.226452 Valid Accuracy: 93.945312
+[2022-05-24 20:58:09,604] Epoch: 004   Train Loss: 0.130452 Train Accuracy: 96.519886   Valid Loss: 0.108258 Valid Accuracy: 97.070312
+[2022-05-24 20:58:25,762] Epoch: 005   Train Loss: 0.073927 Train Accuracy: 98.508523   Valid Loss: 0.086003 Valid Accuracy: 97.460938
+[2022-05-24 20:58:41,812] Epoch: 006   Train Loss: 0.054430 Train Accuracy: 98.934659   Valid Loss: 0.079029 Valid Accuracy: 98.046875
+[2022-05-24 20:58:57,812] Epoch: 007   Train Loss: 0.041136 Train Accuracy: 99.005682   Valid Loss: 0.074453 Valid Accuracy: 98.242188
+[2022-05-24 20:59:13,887] Epoch: 008   Train Loss: 0.035054 Train Accuracy: 99.076705   Valid Loss: 0.074208 Valid Accuracy: 98.046875
+[2022-05-24 20:59:29,927] Epoch: 009   Train Loss: 0.032131 Train Accuracy: 99.147727   Valid Loss: 0.070235 Valid Accuracy: 98.242188
+[2022-05-24 20:59:45,973] Epoch: 010   Train Loss: 0.030975 Train Accuracy: 99.147727   Valid Loss: 0.070808 Valid Accuracy: 98.046875
+[2022-05-24 21:00:01,989] Epoch: 011   Train Loss: 0.029427 Train Accuracy: 99.076705   Valid Loss: 0.069228 Valid Accuracy: 98.242188
+[2022-05-24 21:00:18,008] Epoch: 012   Train Loss: 0.027974 Train Accuracy: 99.218750   Valid Loss: 0.069364 Valid Accuracy: 98.046875
+[2022-05-24 21:00:34,141] Epoch: 013   Train Loss: 0.027075 Train Accuracy: 99.289773   Valid Loss: 0.060164 Valid Accuracy: 98.437500
+[2022-05-24 21:00:50,509] Epoch: 014   Train Loss: 0.019957 Train Accuracy: 99.502841   Valid Loss: 0.059286 Valid Accuracy: 98.632812
+[2022-05-24 21:01:07,120] Epoch: 015   Train Loss: 0.020345 Train Accuracy: 99.573864   Valid Loss: 0.045200 Valid Accuracy: 98.632812
+[2022-05-24 21:01:23,723] Epoch: 016   Train Loss: 0.018232 Train Accuracy: 99.573864   Valid Loss: 0.035870 Valid Accuracy: 99.218750
+[2022-05-24 21:01:40,302] Epoch: 017   Train Loss: 0.013902 Train Accuracy: 99.644886   Valid Loss: 0.032078 Valid Accuracy: 99.414062
+[2022-05-24 21:01:56,553] Epoch: 018   Train Loss: 0.011053 Train Accuracy: 99.857955   Valid Loss: 0.028232 Valid Accuracy: 99.609375
+[2022-05-24 21:02:12,579] Epoch: 019   Train Loss: 0.007917 Train Accuracy: 99.928977   Valid Loss: 0.027941 Valid Accuracy: 99.609375
+[2022-05-24 21:02:28,685] Epoch: 020   Train Loss: 0.007100 Train Accuracy: 99.928977   Valid Loss: 0.027965 Valid Accuracy: 99.609375
+[2022-05-24 21:02:44,803] Epoch: 021   Train Loss: 0.006951 Train Accuracy: 99.928977   Valid Loss: 0.026825 Valid Accuracy: 99.609375
+[2022-05-24 21:03:00,909] Epoch: 022   Train Loss: 0.006225 Train Accuracy: 100.000000   Valid Loss: 0.023053 Valid Accuracy: 99.609375
+[2022-05-24 21:03:17,156] Epoch: 023   Train Loss: 0.005619 Train Accuracy: 100.000000   Valid Loss: 0.021966 Valid Accuracy: 99.609375
+[2022-05-24 21:03:33,263] Epoch: 024   Train Loss: 0.004991 Train Accuracy: 100.000000   Valid Loss: 0.023756 Valid Accuracy: 99.609375
+[2022-05-24 21:03:49,330] Epoch: 025   Train Loss: 0.004596 Train Accuracy: 100.000000   Valid Loss: 0.022349 Valid Accuracy: 99.609375
+[2022-05-24 21:04:05,376] Epoch: 026   Train Loss: 0.004269 Train Accuracy: 100.000000   Valid Loss: 0.022834 Valid Accuracy: 99.414062
+[2022-05-24 21:04:21,402] Epoch: 027   Train Loss: 0.004070 Train Accuracy: 100.000000   Valid Loss: 0.022386 Valid Accuracy: 99.609375
+[2022-05-24 21:04:37,522] Epoch: 028   Train Loss: 0.003842 Train Accuracy: 100.000000   Valid Loss: 0.021207 Valid Accuracy: 99.609375
+[2022-05-24 21:04:53,597] Epoch: 029   Train Loss: 0.003713 Train Accuracy: 100.000000   Valid Loss: 0.020453 Valid Accuracy: 99.609375
+[2022-05-24 21:05:09,691] Epoch: 030   Train Loss: 0.003620 Train Accuracy: 100.000000   Valid Loss: 0.019874 Valid Accuracy: 99.609375
+[2022-05-24 21:05:25,738] Epoch: 031   Train Loss: 0.003412 Train Accuracy: 100.000000   Valid Loss: 0.019882 Valid Accuracy: 99.609375
+[2022-05-24 21:05:41,732] Epoch: 032   Train Loss: 0.003316 Train Accuracy: 100.000000   Valid Loss: 0.019098 Valid Accuracy: 99.609375
+[2022-05-24 21:05:57,725] Epoch: 033   Train Loss: 0.003196 Train Accuracy: 100.000000   Valid Loss: 0.018476 Valid Accuracy: 99.609375
+[2022-05-24 21:06:13,744] Epoch: 034   Train Loss: 0.003095 Train Accuracy: 100.000000   Valid Loss: 0.018150 Valid Accuracy: 99.609375
+[2022-05-24 21:06:29,814] Epoch: 035   Train Loss: 0.002952 Train Accuracy: 100.000000   Valid Loss: 0.017123 Valid Accuracy: 99.414062
+[2022-05-24 21:06:45,897] Epoch: 036   Train Loss: 0.002891 Train Accuracy: 100.000000   Valid Loss: 0.016599 Valid Accuracy: 99.414062
+[2022-05-24 21:07:01,959] Epoch: 037   Train Loss: 0.002744 Train Accuracy: 100.000000   Valid Loss: 0.016097 Valid Accuracy: 99.414062
+[2022-05-24 21:07:18,030] Epoch: 038   Train Loss: 0.002746 Train Accuracy: 100.000000   Valid Loss: 0.015890 Valid Accuracy: 99.609375
+[2022-05-24 21:07:34,150] Epoch: 039   Train Loss: 0.002644 Train Accuracy: 100.000000   Valid Loss: 0.014874 Valid Accuracy: 99.609375
+[2022-05-24 21:07:50,239] Epoch: 040   Train Loss: 0.002554 Train Accuracy: 100.000000   Valid Loss: 0.014684 Valid Accuracy: 99.609375
+[2022-05-24 21:08:06,338] Epoch: 041   Train Loss: 0.002486 Train Accuracy: 100.000000   Valid Loss: 0.014617 Valid Accuracy: 99.804688
+[2022-05-24 21:08:22,490] Epoch: 042   Train Loss: 0.002382 Train Accuracy: 100.000000   Valid Loss: 0.014297 Valid Accuracy: 99.609375
+[2022-05-24 21:08:38,616] Epoch: 043   Train Loss: 0.002314 Train Accuracy: 100.000000   Valid Loss: 0.014101 Valid Accuracy: 99.609375
+[2022-05-24 21:08:54,627] Epoch: 044   Train Loss: 0.002181 Train Accuracy: 100.000000   Valid Loss: 0.014236 Valid Accuracy: 99.414062
+[2022-05-24 21:09:10,686] Epoch: 045   Train Loss: 0.002112 Train Accuracy: 100.000000   Valid Loss: 0.013993 Valid Accuracy: 99.414062
+[2022-05-24 21:09:27,225] Epoch: 046   Train Loss: 0.002038 Train Accuracy: 100.000000   Valid Loss: 0.013486 Valid Accuracy: 99.414062
+[2022-05-24 21:09:43,831] Epoch: 047   Train Loss: 0.001931 Train Accuracy: 100.000000   Valid Loss: 0.013235 Valid Accuracy: 99.414062
+[2022-05-24 21:10:00,276] Epoch: 048   Train Loss: 0.001869 Train Accuracy: 100.000000   Valid Loss: 0.013004 Valid Accuracy: 99.609375
+[2022-05-24 21:10:16,899] Epoch: 049   Train Loss: 0.001793 Train Accuracy: 100.000000   Valid Loss: 0.013441 Valid Accuracy: 99.804688
+[2022-05-24 21:10:33,520] Epoch: 050   Train Loss: 0.001755 Train Accuracy: 100.000000   Valid Loss: 0.012994 Valid Accuracy: 99.609375
+[2022-05-24 21:10:50,065] Epoch: 051   Train Loss: 0.001696 Train Accuracy: 100.000000   Valid Loss: 0.012812 Valid Accuracy: 99.609375
+[2022-05-24 21:11:06,715] Epoch: 052   Train Loss: 0.001669 Train Accuracy: 100.000000   Valid Loss: 0.013000 Valid Accuracy: 99.609375
+[2022-05-24 21:11:22,899] Epoch: 053   Train Loss: 0.001594 Train Accuracy: 100.000000   Valid Loss: 0.012441 Valid Accuracy: 99.609375
+[2022-05-24 21:11:39,237] Epoch: 054   Train Loss: 0.001554 Train Accuracy: 100.000000   Valid Loss: 0.012875 Valid Accuracy: 99.609375
+[2022-05-24 21:11:55,442] Epoch: 055   Train Loss: 0.001549 Train Accuracy: 100.000000   Valid Loss: 0.012229 Valid Accuracy: 99.609375
+[2022-05-24 21:12:11,577] Epoch: 056   Train Loss: 0.001505 Train Accuracy: 100.000000   Valid Loss: 0.011616 Valid Accuracy: 99.609375
+[2022-05-24 21:12:27,599] Epoch: 057   Train Loss: 0.001491 Train Accuracy: 100.000000   Valid Loss: 0.012114 Valid Accuracy: 99.609375
+[2022-05-24 21:12:43,600] Epoch: 058   Train Loss: 0.001463 Train Accuracy: 100.000000   Valid Loss: 0.011684 Valid Accuracy: 99.609375
+[2022-05-24 21:12:59,692] Epoch: 059   Train Loss: 0.001432 Train Accuracy: 100.000000   Valid Loss: 0.012017 Valid Accuracy: 99.609375
+[2022-05-24 21:13:15,823] Epoch: 060   Train Loss: 0.001403 Train Accuracy: 100.000000   Valid Loss: 0.011542 Valid Accuracy: 99.609375
+[2022-05-24 21:13:31,968] Epoch: 061   Train Loss: 0.001364 Train Accuracy: 100.000000   Valid Loss: 0.011481 Valid Accuracy: 99.609375
+[2022-05-24 21:13:47,964] Epoch: 062   Train Loss: 0.001363 Train Accuracy: 100.000000   Valid Loss: 0.011610 Valid Accuracy: 99.609375
+[2022-05-24 21:14:03,956] Epoch: 063   Train Loss: 0.001328 Train Accuracy: 100.000000   Valid Loss: 0.011490 Valid Accuracy: 99.609375
+[2022-05-24 21:14:20,061] Epoch: 064   Train Loss: 0.001308 Train Accuracy: 100.000000   Valid Loss: 0.011343 Valid Accuracy: 99.609375
+[2022-05-24 21:14:36,056] Epoch: 065   Train Loss: 0.001278 Train Accuracy: 100.000000   Valid Loss: 0.010996 Valid Accuracy: 99.609375
+[2022-05-24 21:14:52,118] Epoch: 066   Train Loss: 0.001275 Train Accuracy: 100.000000   Valid Loss: 0.011255 Valid Accuracy: 99.609375
+[2022-05-24 21:15:08,248] Epoch: 067   Train Loss: 0.001264 Train Accuracy: 100.000000   Valid Loss: 0.011358 Valid Accuracy: 99.609375
+[2022-05-24 21:15:24,737] Epoch: 068   Train Loss: 0.001223 Train Accuracy: 100.000000   Valid Loss: 0.010827 Valid Accuracy: 99.609375
+[2022-05-24 21:15:40,916] Epoch: 069   Train Loss: 0.001200 Train Accuracy: 100.000000   Valid Loss: 0.010955 Valid Accuracy: 99.609375
+[2022-05-24 21:15:57,085] Epoch: 070   Train Loss: 0.001185 Train Accuracy: 100.000000   Valid Loss: 0.010637 Valid Accuracy: 99.609375
+[2022-05-24 21:16:13,291] Epoch: 071   Train Loss: 0.001165 Train Accuracy: 100.000000   Valid Loss: 0.010706 Valid Accuracy: 99.609375
+[2022-05-24 21:16:29,316] Epoch: 072   Train Loss: 0.001142 Train Accuracy: 100.000000   Valid Loss: 0.010638 Valid Accuracy: 99.609375
+[2022-05-24 21:16:45,297] Epoch: 073   Train Loss: 0.001143 Train Accuracy: 100.000000   Valid Loss: 0.010329 Valid Accuracy: 99.609375
+[2022-05-24 21:17:01,322] Epoch: 074   Train Loss: 0.001113 Train Accuracy: 100.000000   Valid Loss: 0.010551 Valid Accuracy: 99.609375
+[2022-05-24 21:17:17,542] Epoch: 075   Train Loss: 0.001100 Train Accuracy: 100.000000   Valid Loss: 0.010277 Valid Accuracy: 99.609375
+[2022-05-24 21:17:33,557] Epoch: 076   Train Loss: 0.001089 Train Accuracy: 100.000000   Valid Loss: 0.010533 Valid Accuracy: 99.609375
+[2022-05-24 21:17:49,583] Epoch: 077   Train Loss: 0.001087 Train Accuracy: 100.000000   Valid Loss: 0.010763 Valid Accuracy: 99.609375
+[2022-05-24 21:18:06,141] Epoch: 078   Train Loss: 0.001068 Train Accuracy: 100.000000   Valid Loss: 0.010642 Valid Accuracy: 99.609375
+[2022-05-24 21:18:22,307] Epoch: 079   Train Loss: 0.001044 Train Accuracy: 100.000000   Valid Loss: 0.010512 Valid Accuracy: 99.609375
+[2022-05-24 21:18:38,368] Epoch: 080   Train Loss: 0.001031 Train Accuracy: 100.000000   Valid Loss: 0.010071 Valid Accuracy: 99.609375
+[2022-05-24 21:18:54,395] Epoch: 081   Train Loss: 0.001015 Train Accuracy: 100.000000   Valid Loss: 0.009909 Valid Accuracy: 99.609375
+[2022-05-24 21:19:10,413] Epoch: 082   Train Loss: 0.001019 Train Accuracy: 100.000000   Valid Loss: 0.010115 Valid Accuracy: 99.609375
+[2022-05-24 21:19:26,454] Epoch: 083   Train Loss: 0.000997 Train Accuracy: 100.000000   Valid Loss: 0.009950 Valid Accuracy: 99.609375
+[2022-05-24 21:19:42,560] Epoch: 084   Train Loss: 0.000994 Train Accuracy: 100.000000   Valid Loss: 0.010174 Valid Accuracy: 99.609375
+[2022-05-24 21:19:58,660] Epoch: 085   Train Loss: 0.000968 Train Accuracy: 100.000000   Valid Loss: 0.010145 Valid Accuracy: 99.609375
+[2022-05-24 21:20:15,074] Epoch: 086   Train Loss: 0.000965 Train Accuracy: 100.000000   Valid Loss: 0.009847 Valid Accuracy: 99.609375
+[2022-05-24 21:20:31,333] Epoch: 087   Train Loss: 0.000947 Train Accuracy: 100.000000   Valid Loss: 0.009944 Valid Accuracy: 99.609375
+[2022-05-24 21:20:47,623] Epoch: 088   Train Loss: 0.000961 Train Accuracy: 100.000000   Valid Loss: 0.009967 Valid Accuracy: 99.609375
+[2022-05-24 21:21:03,716] Epoch: 089   Train Loss: 0.000934 Train Accuracy: 100.000000   Valid Loss: 0.009996 Valid Accuracy: 99.609375
+[2022-05-24 21:21:19,842] Epoch: 090   Train Loss: 0.000934 Train Accuracy: 100.000000   Valid Loss: 0.009821 Valid Accuracy: 99.609375
+[2022-05-24 21:21:35,941] Epoch: 091   Train Loss: 0.000924 Train Accuracy: 100.000000   Valid Loss: 0.009906 Valid Accuracy: 99.609375
+[2022-05-24 21:21:52,056] Epoch: 092   Train Loss: 0.000916 Train Accuracy: 100.000000   Valid Loss: 0.009666 Valid Accuracy: 99.609375
+[2022-05-24 21:22:08,111] Epoch: 093   Train Loss: 0.000905 Train Accuracy: 100.000000   Valid Loss: 0.009420 Valid Accuracy: 99.609375
+[2022-05-24 21:22:24,174] Epoch: 094   Train Loss: 0.000886 Train Accuracy: 100.000000   Valid Loss: 0.009735 Valid Accuracy: 99.609375
+[2022-05-24 21:22:40,255] Epoch: 095   Train Loss: 0.000876 Train Accuracy: 100.000000   Valid Loss: 0.009687 Valid Accuracy: 99.609375
+[2022-05-24 21:22:56,350] Epoch: 096   Train Loss: 0.000866 Train Accuracy: 100.000000   Valid Loss: 0.009442 Valid Accuracy: 99.609375
+[2022-05-24 21:23:12,357] Epoch: 097   Train Loss: 0.000864 Train Accuracy: 100.000000   Valid Loss: 0.009361 Valid Accuracy: 99.609375
+[2022-05-24 21:23:28,468] Epoch: 098   Train Loss: 0.000851 Train Accuracy: 100.000000   Valid Loss: 0.009138 Valid Accuracy: 99.609375
+[2022-05-24 21:23:44,513] Epoch: 099   Train Loss: 0.000842 Train Accuracy: 100.000000   Valid Loss: 0.009488 Valid Accuracy: 99.609375
+[2022-05-24 21:27:59,479] Final:   Loss: 0.017529086934841367  Accuracy: 99.49297971918877
+[2022-05-24 21:32:14,212] classification:
+               precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99      6431
+           1       1.00      1.00      1.00     18449
+           2       0.99      0.99      0.99      1899
+           3       0.99      0.97      0.98      2864
+           4       1.00      1.00      1.00      1145
+           5       0.99      1.00      1.00      4829
+           6       1.00      1.00      1.00      1130
+           7       0.99      0.99      0.99      3482
+           8       0.99      0.99      0.99       747
+
+    accuracy                           0.99     40976
+   macro avg       0.99      0.99      0.99     40976
+weighted avg       0.99      0.99      0.99     40976
+
+ confusion:
+[[ 6418     0     4     0     0     0     0     9     0]
+ [    0 18412     0    10     0    27     0     0     0]
+ [    0     0  1887     0     0     0     0    12     0]
+ [   41    27     0  2771     0     0     0    16     9]
+ [    0     0     0     0  1143     0     0     0     2]
+ [    0     0     0     0     0  4829     0     0     0]
+ [    0     0     0     0     0     0  1130     0     0]
+ [   32     0     7     8     0     0     0  3435     0]
+ [    3     0     1     0     0     0     0     0   743]]
+ 
+[2022-05-24 21:32:14,212] AA: 99.295360, OA: 99.492386, kappa: 99.316413
+ each_acc: [99.79785414399005, 99.79944712450539, 99.36808846761454, 96.7527932960894, 99.82532751091703, 100.0, 100.0, 98.65020103388858, 99.46452476572959]
+[2022-05-24 21:32:14,212] Train time:1614.6039106845856 , Test time:254.95712852478027
