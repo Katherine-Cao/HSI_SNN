@@ -18,4 +18,6 @@ https://github.com/suvojit-055aa/A2S2K-ResNet
 https://github.com/zgr6010/HSI_SSFTT
 
 #  
-Thank God for giving me inspiration! good luck!
+Thank God for giving me inspiration!
+
+感谢师哥和pd学长的帮助！
