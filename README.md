@@ -13,7 +13,7 @@ http://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm
 # Related Code
 https://github.com/pangpd/DS-pResNet-HSI
 
-https://github.com/suvojit-055aa/A2S2K-ResNet 
+https://github.com/suvojit-0x55aa/A2S2K-ResNet
 
 https://github.com/zgr6010/HSI_SSFTT
 
