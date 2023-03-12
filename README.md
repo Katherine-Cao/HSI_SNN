@@ -1,5 +1,10 @@
 # HSI_SNN
 Code for "Hyperspectral Image Classification of Brain-Inspired Spiking Neural Network Based on Approximate Derivative Algorithm"
+  
+Thank God for giving me inspiration!
+
+感谢师哥和pd学长的帮助！
+
 
 # Data Sets
 You can download the hyperspectral data sets in matlab format at: 
@@ -17,7 +22,3 @@ https://github.com/suvojit-0x55aa/A2S2K-ResNet
 
 https://github.com/zgr6010/HSI_SSFTT
 
-#  
-Thank God for giving me inspiration!
-
-感谢师哥和pd学长的帮助！
