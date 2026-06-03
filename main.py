@@ -15,6 +15,7 @@ from datetime import datetime
 import torch
 import torch.nn.parallel
 import warnings
+from utils.model_summary import getParamCount, getFlops
 warnings.filterwarnings('ignore')
 from utils.evaluate import reports, stats
 from utils.start import test, train, predict
@@ -174,6 +175,12 @@ def start(group_log_dir, random_state, logger):
     test_loss, test_acc = test(test_loader, model, criterion, epoch, use_cuda)
     test_end_time = time.time()
     logger.info("Final:   Loss: %s  Accuracy: %s", test_loss, test_acc)
+
+    # print model summary
+    param_count = getParamCount(model)
+    x = torch.randn(1, components, spatial_size, spatial_size).cuda()
+    flop_count = getFlops(model, x, device='cuda')
+    logger.info("Model Parameters: %s, FLOPs: %s", param_count, flop_count)
 
     # 预测
     predict_values = np.argmax(predict(test_loader, model, use_cuda), axis=1)  # 预测结果
